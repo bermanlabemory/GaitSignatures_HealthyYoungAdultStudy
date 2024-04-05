@@ -33,6 +33,10 @@ load('HYA_Study_InformationTable_120523.mat')
 
 % Load in 26 commonly used discrete variables
 DiscreteVars = load('YA_26Discrete_numarray.mat');
+load('YA_26Discrete_Table.mat');
+
+
+
 %% Load the generated Gait Signatures (from Python) and associated info here 
 
 GS_L = 1024; %total dynamics features
