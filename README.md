@@ -6,11 +6,11 @@ Python: Generate Gait Signatures
 All associated files can be found in the ‘Python RNN training code’ folder
 
 
-**Please ensure that you are using the specific versions of tensorflow and keras**
-**Run the below commands in your scripts**
+###**Please ensure that you are using the specific versions of tensorflow and keras**
+###**Run the below commands in your scripts**
 
-!pip install keras==2.15.0
-tensorflow==2.15.0
+###!pip install keras==2.15.0
+###tensorflow==2.15.0
 
 
 1.	Ensure all files in the ‘input data’  and ‘helper functions’ folders are present in your Python workspace.
